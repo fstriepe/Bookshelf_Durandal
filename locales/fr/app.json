@@ -1,0 +1,8 @@
+{
+    "modules" : {
+        "localization": {
+            "id_header" : "Ref",
+            "title_header" : "Titre"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "modules" : {
+        "localization": {
+            "id_header" : "Id",
+            "title_header" : "Title"
+        }
+    }
+}
+
